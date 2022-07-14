@@ -1,0 +1,14 @@
+html {
+    font-size: 20px;
+}
+
+.box {
+    font-size: 20px;
+
+}
+.box-interno {
+    width: 10rem;
+    height: 10rem;
+    background-color: #999;
+}
+
